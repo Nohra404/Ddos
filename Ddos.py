@@ -18,9 +18,9 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet NohRa Ddos Attack ")
 print
-print "Author   : HA-MRX"
+print "Author   : Noh Ra"
 print "You Tube :https://m.youtube.com/channel/UCYoQQ_YvMSg7TzElr0Sa_Qw "
 print "github   :https://github.com/Nohra404 "
 print "Facebook :https://www.facebook.com/nohraIT/ "
